@@ -1,6 +1,6 @@
 # FR-Chatbot
 
-# Présentations du répo GitHub
+# Présentation du répo GitHub
 ## Présentation et motivations
 ### Etude 
 ###### *Etudiants : Yacine MOKHTARI & Lilia IZRI --- Encadrant : [Kim GERDES](https://gerdes.fr/)*
