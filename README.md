@@ -3,8 +3,7 @@
 # Présentations du répo GitHub
 ## Présentation et motivations
 ### Etude 
-###### Etudiants : Yacine MOKHTARI & Lilia IZRI
-###### Encadrant : [Kim GERDES](https://gerdes.fr/)
+###### *Etudiants : Yacine MOKHTARI & Lilia IZRI --- Encadrant : [Kim GERDES](https://gerdes.fr/)*
 Dans le cadre de notre TER (Travail d'études et de recherches) nous nous sommes fixés comme objectif de créer un Chatbot *Français*. Ce chatbot sera un peu l'*ami* de l'utilisateur... ***(à développer)***
 
 ### Motivations
