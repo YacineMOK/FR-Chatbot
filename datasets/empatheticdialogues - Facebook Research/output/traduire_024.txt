@@ -1,0 +1,723 @@
+I mean I planned on just returning it where it was but the guilt is still there. \ I understand that
+I hope I will be able to afford a vacation during Christmas break for my kids \ I believe in you! Where are you planning on going?
+I was just going to look up what deals they had going on closer to that time and depending on how much money I save \ I was thinking a cruise sounds perfect for you and your kids!
+My mother needed help moving out of her house and I ignored her call while at a party. I feel so bad because there is no way she and my dad would be able to move the giant furniture.. \ Have you called her back since then?
+I called her back but she told me in an angry way that they already moved everything and my help was not needed anymore. I feel so ashamed. \ I'm sorry, sometimes people, even family can be difficult. you can't be all things to all people. give yourself a break on this.
+I'm always trusting of my wife and daughters. \ You guys sound like a strong family!
+We are pretty much, but we've had to be as the rest of our family on both sides sucks. \ Sorry to hear that, maybe one day you entire family can get along
+Driving always scares me. I've seen some pretty bad car accidents with fatal injuries on the internet and it always crosses my mind while driving. \ I feel the same way.  I don't trust people are paying attention
+Drunk drivers are the worst too \ That is my biggest fear too
+I was shocked when I wsa told my boss was let go \ What happened?
+The wouldn't tell us but I thought it was terrible \ I hope it was a mistake?
+I did not expect France to win the World Cup. It's been a while but I still can't believe it considering a lot better teams made it to the semi play offs. \ That was crazy!  I agree
+I need to start playing soccer again, I don't know why I stopped. \ Soccer is a fun sport to play. It would be good for you to do something you love also
+I was really upse when I found out my co-worker was fired \ Was it their fault?
+Kind of.  They maxxed out on the amount of points they had from lates and absences \ Been there, done that lol.
+I am thankful for my dog. Whenever I am lonely, she comforts me and I feel happy again! \ What type of dog is she?
+She is a Spanish Bichon Frise. Her breed of dogs won 1st place at the World Dog Show this year! Take that other dogs! \ Haven't heard of that one before.
+My parents have been a big letdown in my life. \ What happened?
+my mother framed me for a crime she committed. \ Whoa, that sucks. You need to get away from them asap.
+I finally got to see my favorite baseball time team play in person. It was a dream come true. \ I've only been to a couple of minor leagure games in the city.
+This was major league. It could not have been a better experience than it was. \ That's pretty cool.
+I just had crab legs for lunch. \ I have never had any. Is it similar to eating crawfish?
+It is totally different. I feel bad because I ate so man with so much butter. I'm supposed to be on a diet :( \ Sometimes you just have to indulge and then do better next time.
+I always feel bad whenever I cheat on my diet. It's so hard to disciplined with all the temptations around me. \ I am with you right now! However tracking carbs accurately in an app has been a gamechanger this week
+Yes! I need to start doing that! \ You will be so shocked at how well it works I promise.  You don't want to go over. 
+I was so happy I got to see my cousins when they came in town \ That's awesome! How old is your cousins?
+34 and 27 \ I hope you guys have a lot of fun! I think I'm going to meet my cousin in New Jersey on the 9th? It's so nice seeing famiy members after a long time.
+I lost my wallet at a store that I frequent near my home. \ Oh no. Did you get it back?
+I didn't. I can't believe no one returned it. Now I have to replace verything \ That's such a shame. It really makes you lose your trust in people.
+Last year I got to see one of my favorite singers in concert. I had seen him before but I was really looking forward to this time because I was taking my children,5|5|5_5|5|5,
+hit:2257_conv:4515,2,excited,Last year I got to see one of my favorite singers in concert. I had seen him before but I was really looking forward to this time because I was taking my children.,262,I did the sae thing this year I took my daughter to see my favorite band. Who was the singer?,5|5|5_5|5|5,
+hit:2257_conv:4515,3,excited,Last year I got to see one of my favorite singers in concert. I had seen him before but I was really looking forward to this time because I was taking my children.,226,Bryan Adams. He has been one of my favorites for years. Who did you see?,5|5|5_5|5|5,
+hit:2257_conv:4515,4,excited,Last year I got to see one of my favorite singers in concert. I had seen him before but I was really looking forward to this time because I was taking my children.,262,We saw Incubus. She had a good time.,5|5|5_5|5|5,
+hit:2258_conv:4516,1,annoyed,when my wife didnt clean the house ,11,I had the worst and busiest day at work yesterday, and when I came home my house was a mess because my wife decided she didnt want to do anything that day. ,5|5|5_5|5|5,
+hit:2258_conv:4516,2,annoyed,when my wife didnt clean the house ,269,Maybe she was tired or something. Don't make her feel bad, just encourage her!,5|5|5_5|5|5,
+hit:2258_conv:4516,3,annoyed,when my wife didnt clean the house ,11,I know its so hard though after you have had such a crap day, and then you come home to that. I wasnt hard on her just a little moody about it! ugh ,5|5|5_5|5|5,
+hit:2258_conv:4516,4,annoyed,when my wife didnt clean the house ,269,I know that feeling. It's part of being human though and I hope you guys worked it out!,5|5|5_5|5|5,
+hit:2258_conv:4517,1,confident,I am assured I will do very well on my exams tomorrow. I have prepared very well all night.,269,I am assured I will do very well on my exams tomorrow. I have prepared very well all night.,5|5|5_5|5|5,
+hit:2258_conv:4517,2,confident,I am assured I will do very well on my exams tomorrow. I have prepared very well all night.,11,I bet you will! You seem prepared. ,5|5|5_5|5|5,
+hit:2258_conv:4517,3,confident,I am assured I will do very well on my exams tomorrow. I have prepared very well all night.,269,Thank you. Wish me luck!,5|5|5_5|5|5,
+hit:2258_conv:4517,4,confident,I am assured I will do very well on my exams tomorrow. I have prepared very well all night.,11,Good luck! ,5|5|5_5|5|5,
+hit:2259_conv:4518,1,hopeful, I'm looking forward to next year.,225,I wish it was next year already.,5|5|5_5|5|5,
+hit:2259_conv:4518,2,hopeful, I'm looking forward to next year.,267,WHat are you anticipating for next year?,5|5|5_5|5|5,
+hit:2259_conv:4518,3,hopeful, I'm looking forward to next year.,225,My finances are going to improve significantly.,5|5|5_5|5|5,
+hit:2259_conv:4518,4,hopeful, I'm looking forward to next year.,267,That is awesome to hear.  So relieving isn't it,5|5|5_5|5|5,
+hit:2259_conv:4519,1,confident,I was pretty sure I was going to get a good grade on my paper,267,I was pretty sure I was going to get a good grade on my paper,5|5|5_5|5|5,
+hit:2259_conv:4519,2,confident,I was pretty sure I was going to get a good grade on my paper,225,was" pretty sure ? \ I got a good grade but I ended up failing the class
+Last year, we had a trying experience during Hurricane Irma, but came out OK. \ That must have been terrible. Were you okay?
+ At first, there were no supplies. But yes, we ended up OK. \ I can imagine it must have been very distressing. Glad that you were OK.
+Ever have those days when everything just goes wrong? \ Yes, many. Would you like to tell me about it?
+Well if you're curious, I was on my way to work when my car broke down and I ended up missing a very important meeting about my promotion. I was devastated.  \ Surely you were able to explain that this was out of your control.
+Whenever I see homeless people, I am so thankful for where I am in life. That could easily have been me, they just got the bad roll of the die. \ It's such a terrible situation. You just never know what circumstances have brought someone to where they are.
+I know, it makes me feel so grateful for the things I have and my circumstances. \ I know what you mean. 
+I was overcharged at the grocery store but did not realize it until I got home.  \ That suck's, have you tried calling the bank to let them know about the mistake?
+The bank can't help. I had to go back to the store. It's such a hassle but I want my money. \ Did you get your money back?
+I can't until next summer! This past summer was such a happy moment in my life! \ What do you do in the summer?
+I got to see a lot of my favorite movies I've been waiting for and a lot of great concerts! I am anticipating next summer and cant wait! \ I love going to concerts.
+I am afraid of death. \ Who isn't? I am scared of death because I don't know what will happen afterwards. I fear the unknown.
+I hope I go to heaven. \ Me too.
+I am really looking forward to fall already \ I am also, I love football.
+Yes! and tailgating! \ I only watch football on Sundays.
+I am ready for prom. \ Prom sounds exciting.  Do you have a date?
+Yes, my girlfriend. \ Nice! That sounds so fun.  Are you taking her to dinner first?
+I listened to some old music I used to listen to recently. It literally made me feel like I was reliving the past! \ Music can do that to you sometimes. I listen to mine regularly.
+You know how they say sound and smell are the senses that are used to remember memories the most? That is so true. \ I would agree with that 100%
+A lot of people have no concept of personal space anymore. \ I know right. If you invade my personal space, prepare for backlash.
+especially at the checkout line at a store. \ I hate that so much, people need to learn manners.
+I had to fart in a meeting room and it ended up being really loud.... and there was a lul in the conversation so everyone heard it \ Oh my gosh!  I would be mortified!  Did your face turn red?
+Yep \ Wow!  That had to be so embarrassing!  I would probably quit my job!
+I like collecting survival items in case of an emergency! I will be ready for any disaster or zombie Apocalypse that comes my way! \ What all do you have stored so far?
+Water, flashlights, food, weapons, solar panels, and on and on!  Nothing will take me by surprise! \ Do you also have a go-bag?
+I hate it when I see people get bullied. It makes me so furious! \ Yes, I do not like that either.
+Are you a bully! \ Never, I am a nice guy.
+I do not like being bothered when I am working. \ Me too, it throws my frequency off. 
+I try to shut my door but people still knock on it. \ I think noise reduction headphones would be perfect for you, try Bose or something.
+I've done a lot of extra work this summer. \ What kind of work did you do?
+Mostly around the house stuff, that gets let go the rest of the year. \ I guess you got a lot accomplished then. Do you work a regular job too?
+When my daughter was a baby she picked up sign language really well. \ Really, isn't that unusual?
+Not really, I was trying to teach her so she could communicate with us and tell us what she wanted. \ I'm glad it worked out so well for you all .
+School is about to start. Summer is over. \ Bummer. I enjoyed summer so much.
+Happens every year. \ But at least Christmas is around the corner. I love Christmas just as much as the summer!
+I'm optimistic about my finances. I've been trying hard to pay back the debt on my credit card. \ You can do it
+Thank you. I'm trying to take baby steps and make slow progress. \ I'm working on my debt too.
+I went to go visit my sister in Vegas last month. \ That would be a great time.  What did you do?
+We went to lots of cool shows. Leading up to the trip I was counting down the days and planning itinerary. \ I bet.  I would be too
+I was really proud of my sister when she graduated \ I bet you were. That is a great accomplishment! 
+It is.  I am pretty happy for her. \ Are you you guys going to celebrate?
+I got a nice letter in the mail today, when's the last time you got an actual letter? \ Like years. I use emails a lot but I don't feel the need to use actual paper letters. It's 2018!
+It was a good feeling, brought back a lot of old memories. \ I know right. That kind of stuff is very nostalgic
+Seeing people in great physical shape makes me so inspired. Also, lowkey envious! \ It seems like an almost unachievable goal, especially at my age.
+How old are you? It's never to late to exercise? \ 50, yeah, but It's just not the same.
+During college, I was bullied. \ That is terrible.  Were you able to do anything about it?
+No, it was terrible period for me. There was sometime that could sleep a full night. \ Did you speak to a counselor, priest, or family member about it?
+Last year, my family went on vacation and left me all alone. \ That is terrible. Did you feel lonely?
+Yes.  I tried distracting myself with tv and internet, but i kept thinking of them. \ How long did you stay alone?
+My friend just bought a beautiful sports car \ That sounds fun.  What kind?
+Miata.  I have wanted one of those for a very long time. \ Those are really cool looking
+I let my daughter babysit my youngest daughter for the first time \ That must have been nerve-wracking?
+I actually felt pretty good about it.  They were only a phone call away and I din't go far.  She did well \ Sounds like you have a very responsible young lady growing up.
+I just sit at home all day alone. \ Me too, I feel you bro. It's ok at least make sure you are being productive.
+I do. But I don't have any friends out here. \ Try joining clubs or finding hobbies? Or you can always make friends on online video games!
+My dog loves to hide whenever she has to poop or pee. So I always find hidden treasures around my apartment and boy is it gross! \ Sounds gross lol
+It's always a surprise haha. I call the poop le shrimp because it curves like a shrimp scallop scampi. Oh baby! \ Omg. You should take your dog to an obedience school.
+I really enjoyed my high school reunion \ Those are always so much fun. Catching up with old friends.
+It was really fun.  I hadn't seen most of them since high school \ Thats great. I have one coming up. I hope it turns out as good as your went.
+My friend got promoted at work last week but I was not. We started at the same time so it makes it kind of hard to be happy for him. \ That is disappointing.  Is there other things you can apply for?
+I really like here. I just wish it was me that was promoted. Ill have to try harder. \ Any other promotions where you are currently
+My just graduated from high school in the spring. \ Congrats! You must be excited to start your career.
+Yes I am! It was a long and tough road, but it's finally over! \ I'm glad you stayed the course. There are a lot of big opportunities in store for you.
+Yesterday, I was at the doctors office all day waiting for my blood tests. I was hoping everything would turn out alright. \ I know how stressful that can be. I hope everything turned out alright.
+The wait turned out to be worth it because the results showed that everthing was fine. \ That is great news!
+I am ready for the Frozen Four. \ What is that?
+It is the Final Four but for college hockey. \ Oh right.  I havnt heard of it.  Are you playing?
+I was so annoyed earlier - went back to get my car after doing my shopping and someone had hit it and driven off! \ That wasn't nice. I hope they caught them.
+No unfortunately not.  There were no cameras in the carpark and no one saw anything.  So i am left with the bill.  I hope karma gets them eventually though. \ That sucks, how much is it?
+I was a little nervous about driving on my tire \ Oh no what happened? Everything ok?
+It keeps getting low and I have had to fill it every day.   \ Maybe you can bring it to the tire place. Maybe they can patch it real quick.
+So I got a new table the other day. I just stubbed my toe on it running across the room. It really hurt. \ Oh no I hate that feeling.  Is it better now?
+Yea its fine. I just really aggravting since I am not used to that table being there. I was trying to turn an alarm off and I was running too fast. \ That is no good
+I purchased a new truck today. \ Wow great,  are you happy with your purchase?
+Yes. its the first new vehicle i've ever purchased too. \ Congratulation! i hope you enjoy it.
+I will thanks! \ Was it a good deal?
+It was a fair price. and its 4 wheel drive. \ Excellent that it was a great value 
+The other day I was watching the news but not paying much attention,when I heard a familiar voice, and when I checked it turn out to be my neighbor, that was being interviewed. \ That's cool, what was the interview about?
+It was about he  though about some new policy. \ Local or national?\
+I am so relieved to be working from home full time now \ are you making good money though ?
+It is better paying than anywhere in town for this position \ well in that case way to go
+i finally felt comfie taking my shirt off at the beach, i lost my beergut \ That is great.  Well done!
+it was hard work \ I know that for sure.  I am working that myself.
+My aunt just call to tall me that she will be visiting next week. \ I hope you guys enjoy your visit! Are you guys really close?
+We were but I haven't seen here for years. \ Aww, I bet you miss her a lot. Well it's good you get to see her soon!
+I was packing for a move to a new city and I stumbled upon my old diary. Brought back so many memories. \ You must have felt nostalgic of the old days.
+Absolutely. I was sitting down reading through it and just enjoying the memories. Made me a little sad to move away. \ I understand it is usually hard moving to a new city leaving some many people and placed behind
+I was applying for a manager position at the store I worked at. I felt really sure about the interview. \ I can relate. You just have to be yourself.  Do you know if you got the job?
+Yeah they offered me the job. I was very excited. \ That’s great!  How do you like it?
+I was more than ready for my first day in my new position \ What position was that?
+It was a supervisory position \ Oh wow, I bet you were ready for that. Were you already working there?
+Before I applied at Inline I really did some background research on the company and what all they were involved in. \ That's probably the best thing to do before you go to work for a place. Were you happy with your results?
+I was!  It ended up securing me the job because the company itself is small so the CEO and interviewer were really impressed.. \ Sometimes it's the extra step someone is willing to do that will make it. Good for you!
+One morning my mother came to my house to pick my daughter up for school and told me she saw my daughter's cat on the road and he had been hit. I had to tell my daughter about the loss of her beloved pet. \ Oh no that is terrible!  How did your daughter take it?
+She was around 11, so she took it very hard. I went ahead and let her stay home from school, as I knew she wouldn't do well that day. \ Oh poor thing.  I hope she is doing better now.  Losing a pet is extremely hard!
+I think work is finally starting to pay off for me the way it should. \ That is great! I bet it feels good.
+Yes, it's much better than not making it. \ It sure is and it gives you something to be proud of.
+I just found out that I got the job I have been hoping for! \ Great, when will you start?
+I start training in 2 weeks. I just graduated college in the spring and this was my dream job. \ Fantastic, keep your spirits up and the sky's the limit.
+My son just won a math competition in his school! \ That’s great! I bet he is ecstatic!
+Yes he is! And of course I am too, he is a very good, smart and kind little guy. \ That is definitely something to you to be proud of!
+I was so happy to have my nephew spend the weekend with me \ That sounds great!  How old is he?
+He is 11 \ Nice, Did you do any fun activities together?
+i am really happy about the weather today \ Is it sunny where you are ?
+yes and warm but not too hot \ Glad for you, it's cloudy and humid here.
+I've been somewhat uneasy about money lately. \ have you thought about investing
+Some, but I've got a lot in the market already. \ hopefully you will see great returns this year
+I am having surgery in two weeks. First time. \ I hope everything goes well friend.
+Me too. It's supposed to be short and safe but I'm still scared. \ Don't worry once they administer the anesthesia you shouldn't feel a thing.
+My friends girlfriend kissed me at a party last week. It's been weighing heavy on my mind. Should I tell him? \ Why did you wait a week? Tell her to tell him
+But, he's been my best friend since childhood. I think I should be the one to tell him. I just feel so bad. That's why I postponed it. \ I don't know. You should have told hime when it happended. Just do it and get uit out of the way so you both can move past it.
+I took the garbage to the dump a couple of days ago. one of the bags broke and spilled all over the bed of my truck. \ thats awful, did it clean up easily?
+it's left some grease in my truck bed, but other than that it was okay. \ well that's good to hear
+i got a letter from my grandmother in the mail today \ That's nice. I always like getting letters.
+did you ever have a pen pal when you were a child? \ no, I never did. It might have been nice.
+I just found the sweetest restaurant. \ That's great! I hope you enjoyed the food..
+IT was great. It a tiny new restaurant in my neighborhood. I don't think any one knows its open yet. \ Keep it that way. If too many people find out it might ruin the experience.
+My friend won 58 million when he hit the jackpot the other day. I don't understand, why cant good stuff like that happen to me? \ 58 million. That's unbelievable.
+I couldn't believe he won it because he's so stingy and I'm such a kind hearted person. I deserve it more! \ Well, you know how to get it from  him right?
+I really liked being able to coach my daughters softball team \ Nice, softball is fun. I used to play baseball but always had fun playing softball in gym class
+I did too.  It is cool to work with the kids too  \ Yeah it's rewarding teaching kids and helping them learn how to become functioning human beings. I have a 2 year old nephew who's nuts and asks questions all the time
+I had a phone interview for the job and after going through a ton prior to landing that job I was happy to be able to get the job. It was interesting because the job involved using an app on my phone as part of it to complete my work every day.  \ That’s interesting. What did you have to do?
+I took pictures of merchandise around the store to make sure the tags were applied properly and that the product was in good shape, etc. They just used to use paper and do things manually before the company produced the app for this. \ That sounds cool!
+I've just recently got my pilot's license! I can't wait to hit the skies! \ That's amazing. I have only been on a few planes in my life.
+Have you ever flown one? A totally different experience, it's so freeing! \ I have not and will not ever.
+I dialed the wrong number today. \ Uh oh, did you apologize to the person after they answered or did you just hang up?
+I meant to call my boyfriend and I called my ex. I got his voicemail though. \ Oh wow! That's even worse than dialing a stranger. At least he didn't pick up!
+My friend just bought a brand new car for cheap! \ That is something I need too.  How did they get new so cheap?
+He used a new car buying service and he raves about it. \ That sounds awesome
+ I am pretty thankful to live close to my sister \ It is very important to stay close to family.
+It really is. Our kids can play together often too.  \ That is wonderful to hear.  When times are tough, family is all you have in this world.
+I'm glad to have a lot of work to keep me busy \ You don't get any free time?
+Not much, I can't afford free time. \ OH. I know what you mean.
+I met my daughter;s teacher tody. \ Did you like them okay?
+I do. I think she got the best one. She is only in Kindergarten . \ I'm sure she'll have a fun year.
+My kid was fast enough to be a master of snowboarding after taking only few lessons last winters!  \ That is pretty great! I am actually still a beginner with snowboarding.
+I believe the sooner you start the better it is ! It also depends upon your passion for the sport. \ I feel for me it's just getting to the slopes more often too.
+So i like being prepared for a lot of different situations when i go to conventions. \ True ! Conventions give you an opportunity to learn as you never know what kind of situations will prop up
+Yeah, I think the most important thing to me is the first aid kit. \ Do you have a professional degree in first aid?
+I love spaghetti so much. \ I do too.  I have a fantastic recipe
+My grandmother had a great recipe. I think of her every time I have it now. \ That is really nice!
+I was pretty disappointed when I found out I was passed over for a job \ OH that sucks.
+I know. I really thought it was in the bag.  \ Do you think the other person deserved it at all.
+MY new job starts next week. \ Awesome!  What will you be doing?
+Im transferring to another store and becoming a supervisor. Im nervous cause of the position and its all new people. \ That is awesome. They chose you for a reason. You will do great!
+I was pretty upset when my friend lost her husband.  \ That's sad.
+It is. The hospital was negligent.  \ That's really bad. What is she going to do about it>
+I bought so much junk food yesterday. \ Have you eaten it all yet ?
+No. I have wanted to eat it all day though. I have a bit of will power. Not much/ \ Well, you've done well so far then .
+I had a big scare a few days ago. \ What happened?
+I ran into a snake in the yard. \ I would have peed my pants.
+I am not a very good cook and everyone knows it. \ I am sure you are good at many other things though. 
+Well at parties and pot lucks I am asked to bring the wine and punch. Never a real dish \ That’s ok.  If you would like to learn start simple
+was very sad to hear of my friends passing \ I'm sorry for your loss. That sa to hear.
+Thank you.  He was a really good man.  \ It must be really tough. It will get better.
+I just lost another bet to my sister. \ Oh yea? What was the bet?
+That my mom never worked at McDonalds when she was younger.  \ Everyone's got that low minimum wage job at one point in their life sometimes.
+I'm so sleepy but have so much work to do. \ Take a power nap.
+I think I'll do that soon. \ They really do recharger you.
+My daughter just ruined a carton of eggs. \ That’s no good. How did she do that?
+Looking in her phone while getting something from the fridge. I hate that phone \ That explains it!
+ I felt bad that I couldn’t be there for my friend when she went to court \ Did everything go okay?
+Yes it went well. Thank you  \ Your friend probably understands if you couldnt make it.
+I let one rip during dinner just now. \ lol c'mon man, show some class.
+It just came out. I excused myself though. \ I understand, sometimes you just gotta "let a bomb drop".
+Yesterday, I went engagement ring shopping and I picked out the perfect ring for my wife.  \ ah congratulations on the engagement! How long have you two been together?
+Thanks buddy. We have been dating for 2 years on and off. I can't wait to show her the ring. I like it a lot and I think she will too. \ No problem. I hope she'll love it as well.
+I havent seen my cat for days \ Did it escape your house?
+Yes. I think someone took her. Im so worried. \ Have you put out signs? contacted the animal shelter?
+I can't believe I was the only one to think to bring Smores supplies on our camping trip! \ Smores are a must when camping.
+They are! How could everyone else not think about them? \ I don't know. They probably brought their cell phones
+I was walking down the street the other day and I found 20$ just sitting there on the ground! I was so happy! \ i have never been so lucky.
+That has only  happened to me once before, but then it was a 5$ bill \ I've found a couple of dollars and lighters in the washing machine. Thats about it lol
+I order a burger today with no onions. I am allergic. \ Allergic to onions? I have never heard of anyone with that allergy. Must be tough 
+Not if I don'te eat them. There were so many onions on that burger. \ I hate onions, I just don't like the texture of them
+I was upset when my friend forgot to invite me to dinner \ Oh no. Did you guys talk about it?
+We did. He apologized, but I just hate that he forgot me. \ No one's perfect. I hope you won't hold a grudge.
+My brother built a fence all by himself. Saved himself some money from having to hire people \ I would love to do that. Did it cost him much?
+Yea. The parts cost him a lot though. Each would panel was at least $5. \ Well he sure did save a lot in labor costs.
+I'm anticipating a very warm summer here in Dallas.  \ Texas does that to us! It helps we live in a place where air conditioning is the norm. Or do you like spending time out in the heat?
+No I hate you can't do anything outside and are trapped indoor its not nice. The only thing that I do is swim in my pool and cool off.  \ I know what you mean. It's like you have to dress for both the outside *and* the inside. That's great you have a pool in which to escape, though! 
+I was soooo excited to take our kids to Disneyland for the first time! \ ooo they are gonna love it, just its expensive, I remember when it was only $20 to get in.
+Same! I was excited because I grew up going there. My grandparents lived in Tucson, and we would spend the summers with them -- the most exciting part being our drive to Disneyland each year! \ Which one are you going to California or Florida ?
+I am an English Tutor for Chinese students, when they struggle with a topic, I always take extra time to help them along and make sure they understand \ That is very inspiring, I'm glad you take the extra time. Do you like doing what you do?
+I like it very much, seeing a kid grasp a new concept and very quickly and finding effective ways to do it is a blast. \ That is awesome, thanks for taking the time to help kids grasp a new language! You deserve to be appreciated, but I'm sure they appreciate you a lot.
+Have you ever had a pet that you had to put down? I was so heartbroken when my dog of 16 years had to be put down. this was years ago but it still makes me sad to this day. \ That is heartbreaking, it's always helped me to remember that no matter what happens, you have your memories with them.
+That is true, we got her when I was 3 years old so I kind of grew up with her, I'll never forget those memories. \ Absolutely, it's a chapter of your life and as long as you have those memories they live on through those memories.
+I once put our fishbowl in the window so our beta could get some sun while we were gone all day. \ Hoping the beta was okay.
+IT froze to death in the window. I felt bad. \ Oh wow. A fish freezing in the sun? Or was it winter and sunny?
+Got home and everything looks like it got a fresh paint. \ Did it?
+Yep. Luckily, they're neutral colors. \ Like beige and brown?
+I thought it was really cool when my friend offered to buy me a car if he won the lottery \ That would be nice, but it's highly unlikely.
+I know. The though was cool though.  \ It sure was.
+My daughter is working on a school project without having all the information on it. \ That sounds familiar.  Is there someone she can get it from?
+She's working on that now. \ That’s a relief.  
+I yelled at my mom, because I was sleepy. I feel so bad. \ What did you yell at her for?
+Told her to leave me alone, when she needed me to open something for her. \ Oh, that is sad, I hope she knows mistakes happen!
+I cannot wait for the new super smash bros for the nintendo switch \ Mario is such a classic. Haven't played smash since gamecube I think.
+That was a great one, I was addicted to Brawl as a kid \ Which character is your favorite?
+I found my friend's senior ring that she left behind before going to college. I miss her. \ Why don't ou call her?
+I don't want to bother her. \ Well send it to her with a note to say you miss her. She can call you if she has time.
+I voted today and can't wait to hear the results. \ Oh. Who did you vote for?
+Well, we have a councilwoman who has been arrested for drunk and disorderly several times and she wins the election every year.  \ Wow. What does she do that peole would vote for her every year?
+I considered becoming a vegan, but I'm not so sure if it'll work out. \ I have never tried and never will lol
+I like the idea of it, for moral reasons, but I can't imagine I'd like any of the food.  \ That's what I think. Plus I'd miss bacon too much.
+My four year old drew a picture of me today. \ You must be his role model! That's awesome.
+It was the first time she got all of the body parts in the right area and the right amount of them. Last week I had 8 ears lol \ That's just funny! Well I'm glad to hear she's learning and improving! Good to start them young.
+I had a major work presentation to give \ How'd it go?
+It went well, I felt like I had everything in order \ Being prepared pays off soemtimes.
+I'm getting a shipment from my mom. I'm so excited! \ What's inside?
+Not sure. That's why I'm excited! \ Why did she send you a shipment anyways? 
+I get sentimental about my family, they mean a lot to me and I do not know what I would do without them \ Appreciate them while they are with you and try not to worry.
+I know, it is sad to think one will eventually be wihtout the other... \ It's unfortunately. If only we can all go together and not leave anyone behind.
+I went to pick up my kid, and saw him helping a pregnant lady carry her stuff. \ Well you seem to have done a great job parenting!
+Well yea, that and I think he's a good kid on his own. \ That is awesome, that is hard to come by
+Sometimes I look through old family pictures and get nostalgic about holidays. \ Do you guys still spend the holidays together?
+Since most of my grandparents died, we do not. \ Oh no. I'm sorry to hear that.
+I think I threw away the safety deposit key. it's worth $500 to replace it. \ Oh no! Is what you have in there worth more than 500?
+No. It's the cost of the bank replacing the box, locks and all. \ I know but if there is nothing valuable in there just forget about it.
+My son is being bullied in school day after day. I've gone in and had so many meetings with the principal but it keeps happening. I. Am. Fed. Up. \ I hate bullying. You should talk to the kiids parents.
+They have been in the meetings with us and say it isn't their kids fault. \ Beat the kids up. That's what I would do.
+I saw the students registering today. \ For college?
+Elementary. They didn't look to happy. I jhope they had a good summer, cause its over now lol \ There's still another month of summer left where I am.
+I get sentimental about my family, they mean a lot to me and I do not know what I would do without them \ I feel the same way. Everyone isn't as fortunate to have family.
+That is true, many people take it for granted \ I learned a long time ago how important family is and now I have my own.
+That is awesome to hear, appreciate them for what they are! \ Exactly
+I Can;t believe my favorite show is ending. \ What show is that?
+Game of Thrones. I have been a fan since day 1 \ I did not know it was ending, sorry to hear that!
+A few weeks ago, we had a terrible storm, and my apartment flooded. \ Oh no! Hopefully renters insurance covered it!
+None of my or the landlord's insurance covered the damage, so he's paying for the repairs out of pocket. \ Well that is terrible for him but I am glad at least some of it is being taken care of!
+Not really, the repairs were supposed to take three days, and it's taken over three weeks so far. \ Ugg I am sorry to hear that. Sometimes dealing with land lords is a tough business.
+My husband hangs steel and the last time he had to go work in another state I felt really lost and alone for a bit. \ I feel the same way when I'm away from my cat.  Does he have to travel a lot for work?
+Sometimes he does.  Lately there hasn't been any local work so he has had to go out of state and its just too far to come back. \ Maybe one day if you have the time, you can pay him a surprise visit.
+I've been working hard to meet my work goals this summer. \ What are your goals?
+It was to earn a certain amount of money. \ Ah I see. It's always nice to have a goal to work towards.
+There were 6 kittens in front of my doorstep this morning. \ Are you keeping them?
+Yep. Let's see how it goes. If not, I could always find a good home for them. \ That's a lot to take in.
+I was disappointed with the new Mario Tennis game, it did not live up to my expectations \ Oh. How was it different to the previous ones?
+It was more robust, but not enough of an improvement \ Yea. Didn't warrant a new version, hu?
+I was looking forward to hanging out with my friends but looks like I'm stuck at work \ I am sorry to hear that, why are you working extra?
+Someone called out sick. \ Ah, I know that all too well, best of luck
+Going on vacation this weekend. I can't wait! \ Where are you headed?
+Hawaii. I've never been. \ Me neither, sounds like fun!
+I was proud of my friend when he was the high school valedictorian, he did a great job! \ That's an incredible achievement. He must've worked really hard.
+He did, I did not know he was that smart though \ sometimes it's the one who keep it on the downlow who are the smartest.
+I tried spincah alfredo for the first time the other day. \ how did you like it?
+I loved it. I had never even had spinach before. \ I'm not a big fan of spinach myself.
+A major health win for me, I quit smoking a few weeks ago after 30 years. \ Wow. I have been trying. How did you do it?
+Willpower and a strong desire to get healthy. \ That's great. I'll get there one day. I wanna see my great grandkids
+I cannot wait for the new super smash bros for the nintendo switch \ I didn't know they were recreating that game! When does it come out?
+It comes out in december! \ I'll need to keep a look out for it!
+I have a day off tomorrow after 3 straight weeks of work and my throat is starting to bother me! Figures! \ That is terrible, I hope you feel better!
+Thanks, hopefully it's just a false alarm. \ Yeah, I hope so!
+The adoption people called me about the dog we applied for. Think we're getting him! \ What dog breed is it?
+It's a jack russell! \ Oh wow, that is an energetic dog, good luck!
+I am jealous of my coworker, he is super smart and younger than me \ It sucks, but sometimes you just can't compare yourself to other people.
+I guess so, I am proud of him, he is very likeable, but still \ Yea, I get you. It's hard not to feel bad when someone seems to have it easier.
+My friend just went through a break up. Think some good movies and food are in order \ That's tough, it's good he has a friend like you to help him out though.
+Yea, it happens. He's been there for me too. \ It's good you have a close friend to count on too if needed.
+I asked my friend to buy stuff for a party, I knew he'd come through though. \ That's good to have reliable friends.
+Yeah we've been friends for a long time so I trusted him. \ How many years now?
+ I used to be afraid of the dark but now I am not so much, I had a nightlight for a long time \ I think a lot of us have been afraid of the dark.
+I suppose so, it is the fact that we do not know what is in it \ I'm glad you're not afraid of it anymore though!
+I'm waiting for my friend at the airport. We've been waiting to go on this trip for a while. \ Where are you going?
+We're going to Boston. \ Ah, that should be fun, probably nice this time of year!
+ I used to be afraid of the dark but now I am not so much, I had a nightlight for a long time \ Why aren't you anymore? 
+I guess I just grew up, realized there are no monsters \ What were you most afraid of at night?
+I took a work related placement test for a better position in my company \ how did you do on it?
+I did well overall, it was easier than I thought \ Good, well I hope you get the better position!
+My son is dyslexic and has ADD, with a little work he ended up winning his spelling bee! I'm proud of him! \ That is amazing! I'm happy to hear that. I can relate, I feel like I have undiagnosed ADD.
+Do you struggle with learning as well? \ I have a very hard time focusing on what I'm reading, so it can definitely slow down the learning process.
+While in a grocery store I told my son he couldn't have the snack he asked for, and he began screaming at the top of his lungs! \ I can relate to that! It's so mortifying because everyone begins to look at you like you're a bad parent!
+Exactly! I felt like all eyes were on me and they were judging me! He normally doesn't act that way. I guess he was just tired. \ That's usually the main culprit of those situations!
+I recently spoke to my father for the first time in years. It reminded me of my childhood and the distant past. \ Cool.  Somethings never change.  What did you reflect upon?
+We spoke about our recent lives. Apparently he is in the market for a new car. \ Yeah, I miss my dad.  He died several years ago.  What kind of car is he looking for?
+I went back though my old high school as part of a reunion.  It brought back many memories. \ Were they fond memories?
+Yeah, most of the were.  I think we forget the awkward stuff.  On the other hand, I'm not sure I would want to do it again. \ That's understandable. I hope everyone you know is doing well from back then!
+There's a new hotel that's been headhunting me to work for them, but I think I'll stay at the one I'm at now. They've been good to me. \ I'd probably stay loyal too, after weighing the pros and cons, making a list for myself.
+Yea. It's a tough choice, but I'm happy where I am. \ good for you, wish i could say the same for myself. I'm not unhappy, just got more work to do.
+Look I dont know if i really believe in all of this stuff, but there are these videos of weird/crazy things on youtube I was watching last week. Have you heard of the deep/dark web? You can do all kinds of illegal things on it. The video that I lost some sleep over that night was about hiring hitmen, and the guy who made the video supposedly contacted a "real" hitmen, they met on camera and had a quick interview. The guy was all over the place and was on edge. The setup was probably fake, but convincing enough to be real. \ Wow. Sounds like crazy stuff I wouldn't want to get involved in.
+Yeah, me neither. I used to be more interested into it when I was young, but definitely don't want to mess around with anything involved with it now that i know more about the world. \ Sounds like you're a lot more mature about it.
+Just started my budget. Apparently I'm going to be ok.  \ How strict is the budget?
+Down the last dollar. I have a baby on the way so we've got to bank money \ Ah, that makes sense, well I hope it goes well for you!
+I was disappointed with the new Mario Tennis game, it did not live up to my expectations \ I have not played it. Are you going to go back to the last and quit playing it?
+I might, maybe I just need to give it another shot \ Yes, I agree. I'd give it a week.
+Have you ever had to file for disability? \ No. Why do you ask?
+I've had to recently. Its been really tough. \ I'm sorry to hear that. How far along in the process are you?
+I've been going through some financial troubles, but my family has come through. \ Thats good. I hate that your having difficulties. 
+Yea. I wish neither of us have to go through tough times.  \ Yeah its tough. But, we just got to keep working.
+My dog passed away a week ago. Feels different not having anyone to come home to \ Im so sorry. I know the feeling, Im really sorry!
+It's ok. Not your fault. So you have lost one, too? \ Yes, I grew up with him and he got me through my parents splitting up and everything. (cause I didnt have many friends). I know everyone always says dont get another one too soon but for both my cats that passed and my dog, doing that really is what got me out of the rut. 
+The other night I literally fell asleep at my computer writing the first paper of the semester. When I woke up I knew there was no way Id finish it before the due time and so I got ready for my first grade of the term to be a doozy. \ Oh man. At least, you've got some other assignments to bring that back up.
+Yeah, Im pretty good at recovering from that, but geez so embarassing as a first impression on the professor! \ I'm surprised school started alraedy.
+i was impressed by my nephews performance at his little league baseball game \ Nice. Did his team finish first?
+they won the game and he played really well \ At his age, they progress very quickly
+I am nervous because I am having a surgery tomorrow \ is it a major or minor surgery?
+I could say major surgery. It is a surger for an ulcer. \ i hope everything goes well !
+I get sentimental about my family, they mean a lot to me and I do not know what I would do without them \ Families are really precious.
+They truly are, they are not to be taken for granted \ Yea. So many people take their loved ones for granted.
+This girl fell during a race, and everyone stopped to help her. \ That is very sweet of them!
+Yea, I'm glad they did it. It was a sight to see! \ It sounds like it, people can be so sweet
+I get sentimental about my family, they mean a lot to me and I do not know what I would do without them \ That's really sweet, I think most people feel the same way as you. Families are really important.
+They really are! \ I don't know what I would do without mine!
+My best friend is getting married, I'm so excited for her! \ When is she getting married?
+This weekend! \ Oh wow, are you one of the bridesmaids?
+I have always been faithful to my girlfiend of almost 3 years \ So many people cheat nowadays. That's good to hear!
+That is true, but very sad as well in my opinion \ It is, but we can learn from them and not do the same thing.
+Our fence fell down. It's going to cost so much to get it fixed. \ That is not good, how much will it cost?
+Over $1,000 just for the material alone. \ Oh wow, I could not afford that at all
+Broke up with my girlfriend last week. I don't have anyone to do stuff with anymore. \ I am sorry, why did you break up?
+We were just growing apart too much. \ That is not fun, sorry to hear that...
+I cannot wait for the new super smash bros for the nintendo switch \ What is your favorite nintendo console?
+I think the switch is, the games and portability are hard to beat \ Portability? Ah, so it can play all the older games?
+I think surgery is so gross.I know it is helpful but I can't help it. \ It can help, but I could not watch it...
+Yeah I could never be a doctor. \ Me neither, which sucks cause it pays well
+I get sentimental about my family, they mean a lot to me and I do not know what I would do without them \ That's good to hear. I think family is very important.
+they sure are, very important to almost everyone \ I wouldn't be the person I am today without my family.
+By mistake, I saw an image of a car accident. I was disgusted. \ Oh wow that sounds awful! was it graphic?
+Yes, the image keep coming back. Terrible. \ I'm so sorry you had to go through that.
+My boyfriend cheated on me while I was away visiting family. I was very angry and upset \ Sorry to hear about that. Did you ask him to move out of the house?
+No, we are working on sorting things out but I am still very hurt. \ Did you know the person who was with him?
+I get sentimental about my family, they mean a lot to me and I do not know what I would do without them \ Our family are the first people in our life.
+That is for sure, I do not take them for granted \ How many people are in your family?
+Found the gift my little brother gave to me, when he was 6 years old. \ Is it still in good shape?
+Yes, it is! Makes me miss him. \ Do you live far away from him now?
+I really care for my girlfriend, she is so sweet \ That's great. How long have you two been tegether?
+about 3 years now! \ Wow. That's a long time. Congrats!
+My friend has been traveling for work, and he still manages to take care of his sick mom \ That is a big burden, hope he is holding up okay
+He gets stressed, but he keeps going. He's a really terrific guy. \ That is great to hear
+I trust my girlfriend, we have ben dating for almost 3 years now \ Thats really good. Trust is important in a relationship.
+It sure is, and hard to find \ That's the truth.
+Do your kids ever do anything cute that turns annoying? \ I actually do not have any kids right now
+My kids love to tell me what they are doing in their video games. It was cute at first, but you can only listen to someone talk about Stardew Valley for so long. \ I heard that was a really fun game though!
+I am hopeful for the new pokemon game, I think it could be good! \ I think I haven't play pokemon since Gameboy. What will this new one be about?
+It is a remaster of Yellow version! \ Oh nice. Which one is your starter?
+My friend just graduated from nursing school while working fulltime \ That is a good accomplishment!
+It is. I admire her a lot. \ I would too, that is very impressive
+My friend just adopted a dog. I can't wait to see him! \ What type of dog is it?
+It's a chow chow! \ I have never heard of that, I have a MaltiPoo
+I get sentimental about my family, they mean a lot to me and I do not know what I would do without them \ How many people are in your family?
+5 \ Small family.
+My friend gave up his dream school to go to a local college so he can stay close to his mom. \ Thats sad. But, sometimes people need others to help take care of them.
+She really does  need him to be around. \ Its good that he's there for her.
+I've had to help take care of others before as well. \ Seems like we all have. Some people shirk having to though.
+Yeah, I'm not so lucky. My wifes been sick and I've been taking care of her recently. \ Oh no.I hope she gets better.
+I killed my friend's cactus \ How did you do that?
+I guess I over watered it. \ That will do it, sorry to hear that!
+ I used to be afraid of the dark but now I am not so much, I had a nightlight for a long time \ Did that make you feel embarassed?
+Yeah I guess, it was pretty common at that age \ How old were you when you overcame it?
+I was supposed to meet up with my volleyball team today, but I'm so tired. \ Why are you so tired?
+Been working since 6am this morning. \ What is your job?
+I was lonely before I met my girlfriend and all my friends \ People come into our lives for a reason sometimes.
+That is true, we just never know why \ I'm glad they were for positive reasons for you.
+I'm so glad I'm near a Taco Bell and Chipotle. \ I'm not much for eating out, I heard Chipotle is good though.
+Me either. I just got pick up my food there. \ Well I'm glad some people can enjoy it at least.
+I saw someone play an entire song by themself at a talent show once. \ Oh nice. What instrument did they play?
+They were singing and playing the drums and guitar at the same time. \ That's pretty amazing!
+Just came home to so much cake! \ How did that happen?
+Well, I was complaining about wanting cake, and I guess everyone made me one! \ That is very sweet of them, do not take them for granted!
+I am ashamed of how much money I make, I barely make a livable income \ I'm sorry to hear that.
+I am ashamed of how much money I make, I barely make a livable income \ Yep. You just said that.
+Hey, I was at this talent show recently. I saw this guy playing a whole song by himself it was crazy. \ What song was it? Did you know it?
+Yeah it was Ride the Lightning by Metallica, which made it even more impressive because it's a very technical and fast song. \ Man that is crazy! Especially that song!
+I am pretty much the IT guy among my friends. Always ready to fix computers for them. \ I consider myself somewhat knowledgable about them too, it's very fulfilling being able to help other people with their problems sometimes.
+Yeah, you sorta feel like the specialist among your friends and loved ones. \ Yeah, sometimes it can be annoying though because they come to you with really easy problems to fix and you feel like they should know how to do it themselves.
+My friend said she wanted to talk to me. No idea what it could be about. \ Do you have a guess?
+Completely no idea. I just hope it's not bad. \ I do too, that would not be good
+I love my girlfriend, I am very grateful for her \ That's awesome. How did you guys meet?
+Through college! \ Oh man. Seems like if you didn't meet your sweetheart in school, it's more difficult to find a girlfriend.
+I've never been to Washington, DC before. I'm pretty excited \ That's exciting, what are you doing there?
+Just visiting. Think we're gonna wing it. \ Watch out for any spooky politicians haha.
+My best friend and I are planning our weddings at the same time but she has a much bigger budget than I do. \ Oh man, must make you feel bad.
+Yeah. It's not the worst thing by far and I still can put together a special day but yeah it does irk me a tiny bit. \ It's better not to compare your situation to others sometimes.
+I got 3 quarter pounders and 3 big macs. This is gonna be good. \ That is a lot of food, hope you can eat all
+Oh yea, I will! Haven't ate all day. \ That makes sense, hope you enjoy it!
+I am grateful for my girlfriend, she is one of a kind \ she's a lucky girl.
+Haha, thank you! \ Not a lot of guys say nice things about their girlfriends behind their back, haha!
+I love my girlfriend, I am very grateful for her \ That's nice to hear. How did you guys meet?
+Through College! \ You guys still in college?
+Loaned my friend 10k. My family said I shouldn't have, but I think he'll come through. \ That is a lot, I hope he does!
+Thanks. I think our friendship is strong enough. \ I believe you, that would be hard to get around, a lot of money
+I can't find my phone anywhere. Everything is in it! \ Wow, have you tried calling it?
+Yea, no dice unfortunately. \ That is not good, where could you have left it?
+ I get sentimental about my family, they mean a lot to me and I do not know what I would do without them \ They must have really been there for you.
+They are most of the time! \ haha most of the time.
+I invested 5k in different stocks \ That's a lot of money, how did it go?
+Lost 1k so far. I don't know what I'm doing. \ That seems unlucky. Was it your first time in the stock market?
+You wouldn't believe my night last night. I went home, and my entire house had been cleaned from top to bottom. \ Oh wow. So who was the fairy?
+My wife. What's more, all my kids were quietly working in their rooms. You couldn't hear a mouse. \ She's an awesome lady. You're one lucky person.
+I lost the shoes my friend bought me. \ were they expensive shoes?
+Yea, they were. He worked a lot to get them for me. \ What shoes were they?
+I was lonely before I met my girlfriend and friends \ When did you meet them?
+In high school and college! \ Nice. How long have you all been together?
+I fell asleep during my date last night. \ Why is that?
+I was just so tired. \ Ah, well did you like the other person?
+ I used to be afraid of the dark but now I am not so much, I had a nightlight for a long time \ Why were you afraid?
+I guess cause it was unknown \ I see. I think I used to be afraid because I cuoldn't see anything.
+I went to the lake in my old neighborhood and thought about my childhood buddies. \ How was that? Must have been a throwback!
+It definitely was. I don't have a lot of friends now and miss them a lot. \ I am sorry to hear that, hope you get some more?
+I cannot wait for the new super smash bros for the nintendo switch \ Super Smash Bros is a classic!
+It sure is, so fun with other people \ How many people do you usually play with?
+The local restuarant near us is closing. I thought business was good. \ What is it called?
+Los Chorros. It's a Mexican restuarant. \ Oh, why did it go out of business?
+I felt confident when I aced my job interview \ I hope you get the job!
+Thank you, I feel like I almost have to \ Interviews can be nerve wrecking.
+I made it on time to the bus stop. \ That is good. Where you running late
+I was running late and so did the bus. \ That sucks. I hate when I am running late I always feel behind
+I missed up on something, but was told I could redo it \ Did you take that chance and redo it?
+Not yet I'm still waiting for the email with the new info \ I hope the email will bring you good news
+I'm really happy to have the family I do. \ Good, how big is your family?
+More than a handful. \ How about your immediate family?
+ I used to be afraid of the dark but now I am not so much, I had a nightlight for a long time \ Was the nightlight in your room?
+yeah, I did not like the dark \ You're okay with it now?
+i really appreciated all the effort my friends put into my birthday \ That's very nice of them! Having caring friends is very important.
+yes it is \ What did they do for you?
+I feel pretty alone when nobody is home. \ i like alone time
+I used to like alone time but now not so much. \ i think its good to find a healthy balance between being alone and being social
+I failed my driving test twice, but I was really encouraged and did better the next time. \ Well that's good, sometimes it's our failures that really show us what we're made of. 
+I agree, I practiced and practiced and I was pleased when I passed my third time. Persistence is key. \ Congratulations. I am in my twenties and still can't drive so hopefully I will get my license next year.
+I was making fries and started a grease fire but luckily I always keep a box of baking soda on hand when I cook and I was able to quickly put it out. \ That is super unfortunate, did you manage to save any of the fries by chance? 
+I did, it was just one of many batches. I usually have to go through like 10 or so every time I make fries.  \ I'm glad that you did not lose all of them, it would be terrible if you did all that work for nothing!
+I was sad before I met my girlfriend, I did nothing interesting \ Why not? You only live once get out. Make the most out of every day!
+That is true, I was just depressed \ Sorry to hear that. How did you meet your lady friend?
+I'm over the road trucker. Man it gets boring in the evenings.  \ I bet it does, you should find a podcast you like
+I listen to most of those as I drive. I was thinking of getting into gaming. I have a Tv in the truck and can buy a game system.  \ That is smart, I would recommend a nintendo switch!
+I see a lot of work coming up at my job \ How so?
+My supervisor warned me earlier in the week about it \ I'm sorry. Any way you can get out of it?
+I was scared to fly for the first time \ Why's that?
+Because I am scared of heights. \ Have you always been scared of heights?
+i couldnt believe it rained this afternoon after such a sunny morning \ Yuck!  You didn't get wet and muddy I hope!
+nope it only rained for a few minutes \ That is good to hear.  No one likes soggy shoes!
+I want skydiving a couple weeks ago! I had to put a lot of faith into my instructor! \ i bet that was fun, were you nervous?
+I was since my life was in someone elses hand! \ it was probably really exciting though too
+my girlfriend annoys me sometimes, but I still love her anyway \ A little bump in a relationship should not affect it, that is good. Always love and take care of her.
+I plan on it, that is for sure \ A key to a long relationship is persistence, so keep at it! 
+I once went a restaurant, and I saw rats running around in the back kitchen!  \ Did you say anything to someone?
+I reported it! I was shocked and grossed out, how can a place like that operate!? \ a Burger King near me got shut down for that!
+I accidentally left my dog outside in the heat for too long recently. \ Oh no!  Was he OK?  I hope there was no permanent damage!
+Yes he was fine after a few hours but he was certainly acting strange at first. \ That had to be really scary for you.  I bet you will never make that mistake again!
+My wife talked me into bungee jumping a couple weeks ago! It was insane and I was scared out of my mind! \ Wow I could never do that, I really hate heights.
+I am afraid of height to, so you can imagine how I was feeling! \ You're pretty brave for conquering that fear.
+I just found out that my friend isn't really my friend at all. \ That is bad. What happened?
+She stole money from me! \ Wow. Did you call the police?
+This tax war that US has started is borthering me because prices are now increasing because of it. \ Yeah it sucks. I have noticed it too.
+Trump doesn't care about the lower and middle class. We are paying the prices of his actions. \ I know and it is really sad.
+Do any of your kids play any sports? \ No, I do not have kids. Yours?
+My daughter skateboards. She went down the big ramp the other day. It was so cool. \ I bet you were really proud!
+I was really proud of my friend for doing a backflip \ Backflips are scary. Neck injury is serious.
+Yes, but luckily he completed it without hurting anything. \ Thats good! They do look cool too.
+So I kind of ate the last piece of pizza that we had and I didn't know Tom wanted it... Feeling kinda bad. \ I don't think you should feel bad, you didn't know!
+Yeah but he just seemed so disappointed when he came home for lunch. \ I'm sure he will be okay. Maybe you can make it up to him.
+I should probably just buy him another pizza soon. \ Sounds like a good idea.
+I was tired the other day at work because my boyfriend kept me up all night. So annoying. \ I know that pain!  Did he keep you up watching tv or video games?
+Video games! How did you know? \ Because mine does the same thing... If its not video games its the TV on full blast haha! Tell him you need your beauty sleep.
+A few weeks ago I was on a bus trip. I had a ticket back home for a late bus but I wanted to leave earlier. There was an earlier bus that was supposed to be full. I decided to take my chances and try to get that earlier bus. I asked the driver if there was any chance of getting on and to my surprise I was able to! \ You really got lucky that day.
+I know. I made it home so much earlier than I had planned! \ Be sure to play the lottery.It looks like you are on fire.
+I feel so lonely. \ I'm sorry to hear that. Is there anyone around in your life?
+My wife left me after 15 years together. \ That's horrible! I hope you're trying to do some fun things to take your mind off the pain.
+My son graduated from high school this year. I was so happy. \ How happy you must be!
+I was! Graduating is such a huge accomplishment. I can't wait to see what the future holds for him. \ will he go to college?
+I was scared to fly for the first time \ I was scared the first and only time I flew also. Where were you flying to?
+Europe. So a long flight! \ Oh wow! I bet that was really exciting. I have never been out of the country.
+I was so late for work one day, I walked out and forgot to put on my pants! \ Wow. Thats hard to believe lol.
+I was so concerned about getting to work I forgot to throw them on, I was so in shock, even the neighbors saw. It was bad. \ Yeah, it sounds that way.
+I had to wait in line for 15 minutes at the store today. There was only one poor cashier working. \ That must of been a pain! I hate waiting in lines for cashiers, they are so slow sometimes.
+The cashier couldn't help it. The store should hire more people. \ Stores should really open more checkouts when it is busy, especially during rush our!
+I feel bad for forgetting about my mom's birthday \ You must feel horrible!  Get her something extra nice and I am sure she will forgive you!
+What should I get her? \ Get her flowers and a gift certificate to a nice massage place!
+I came home the other day to find my brother waiting for me! I had not seen him in almost 5 years! I couldn't believe it! \ Aww how nice of him! I bet you were happy
+I was, especially since it was completely unexpected and out of nowhere! \ How long had it been since you had seen him?
+I was thinking about how I missed my grandma \ I have the same feeling. I miss her also
+She passed last year. She is in a better place. \ Sorry to hear that
+A toddler was eating something that he took from the floor. His mother was not paying attention to what he is doing. \ Oh I hate when I see that happen.
+Me too. She was busy with her phone. \ Sometimes I think parents need a training class.
+I wanted to visit with my mom but we hadn't been speaking in awhile so I was nervous.  \ That sounds troubling. How did your visit go?
+It was okay, a bit tense but mostly okay.  \ Well that sounds like it worked out fairly well fortunatley.
+I just had my third job interview this month yesterday! It's been really great having so many job interveiws and I've gotten positive feedback from all of them! I really think I'm going to get one of these jobs! \ Oh I hope you do get the job! What is it?
+Thank you. It's a produt manager job for Nestle. It pays really well and I'm very excitied about the possibilities! \ Well good luck, that sounds like a challenging role!
+I have a work project coming up that needs to be completed \ Are you going to have it completed in time?  I hope you are not behind schedule!
+I still have much to be done \ Ouch!  You better knuckle down and burn the midnight oil!
+I just can't wait until this weekend! I am going on a trip to the Bahamas for a week! I can't stop thinking about it! \ What are you going to do there?
+I am going diving, parasailing, and zip lining!  I can't wait! \ Are you going with anyone?
+I dropped my friend's birthday cake on some kid. \ Oh wow that's horrible. Was the kid ok?
+The kid was pretty bewildered. We bought him some dessert to make up for it though. \ Haha. You already gave him a whole cake. Did he need more dessert?
+I'm going out to see "Kinky Boots" on Broadway tomorrow night! I really can't wait for it! \ Sounds exciting! What's it about?
+It's basically about a shoe manufacturer who becomes friends with a drag queen and makes a line of boots for her that ends up saving his factory. \ Sounds like a really heartwarming story. Hope you have fun!
+My friend told me that she has a crush on me. \ Do you like her too?
+I don't know yet. Kinda need some time to process this. \ Give it a go. You might be soulmates.
+I saw a lot of people voting today. I voted early. \ Were the lines long?
+Very long. I think its good that people are taking action. \ I agree. More people should get involved to make a change.
+I asked a girl out for dinner today, and she turned me down while a lot of people overheard. \ I'm sorry to hear that.
+Thanks. Guess it wasn't meant to be. \ You will find the right one someday.
+A homeless woman asked me for money for food and I said no. \ Oh, how come?
+I was in a hurry, I felt bad about it. \ No one's perfect. Maybe you'll see her next time.
+I will start off saying I hate the water! I can't stand being in it; however, that changed last week when I took my son to his first pool. His joy erased all my hatred for water.  \ Aw. Children will make us do things we NEVER thought we would (or could) do! 
+Yes! I start swimming lessons next week. I have went 32 years without knowing how to swim, and that one visit changed all that.  \ That is SO exciting! Congratulations! You are a fabulous role model for your son.
+My boss called me the other day to tell me I would be receiving a package the next day.  No other info, but she told me not to open it until I called her. \ So have you gotten to open it yet??
+Yep! I was hoping it was a special award that my company give to deserving employees.  Turns out it was just some HR paperwork that she needed to go over with me regarding my team. Boo! \ Wow! I would have told her to fill out the paperwork herself getting your hopes up like that.
+My moms friend had a son that passed away the other day from Cystic Fibrosis. The last time I saw the friend was when she was pregnant with this child (her only child), but my mom felt we needed to appear at the viewing anyway because of the bond they did have 16 years ago (when he was born). \ I am so sorry to hear that.
+Yes it is sad. It was hard when she told me and my mom to enjoy my son because she will never have grandkids. I think my heart broke when she said that.  \ It must be devastating for her. Do you think she'll be able to overcome the loss?
+My friend graduated valedictorian while working full-time during his junior and senior year. \ Your friend must be superman! (or woman) Lol
+Dude just has a lot of drive and determination. I wish I was more like him. \ Yes he does. He deserves it, I hope he is going to the college that he wants to go to, all that hard work should pay off for him!
+I missed the sale at the supermarket. \ That's always disappointing. What were you wanting to buy?
+There were breats on sale. They are rarely that cheap. \ That's too bad.
+I decided to face my fear of heights. \ That's pretty cool. What are you going to do?
+I went bungee jumping! I survived, but will not do that again. \ Oh wow, bungee jumping is a huge step!
+I rode a taxi one day and ended up not having enough to pay the fare. The driver was nice enough to offer to cover my fare. \ Wow, I"m surprised. Didn't know they were that generous.
+Well, in my town it's a small place and they are pretty familiar with me so they're a bit less impersonal than a typical cab driver. \ Oh ok. I was thinking it was New York where the cabbies are notorious for being rude.
+I was very proud when my 6th grader made the A honor roll last year. \ That's awesome, you must have done something right to make a kid so bright.
+I make him do his homework every night and make sure he studies. \ That's the way to do it, clearly.
+My boss wants to talk to me after lunch. I don't know what it could be about. \ It could be something good maybe.
+I'm hoping so, too. I wish they wouldn't do this. \ I can only imagine how frustrating that is, that's why I work at home full time.
+I was going through a hard time but praying helped me to feel strong enough to get through it. \ I'm glad you got through it.
+Thanks, I'm glad too. \ How's life now?
+My son tried out for football at our community center \ How old is he? Is he excited? 
+he's 4. He just wants to run around and play. I'm the one that's excited. And I know nothing about football. \ You will grow to love it. Football is amazing sport. Your son will love it. 
+I hope so. I just wish it would get cooler outside before they start practice. \ Just wait a few years. If he sticks with it he will be at practice 6 months a year then playing games in the snow.
+So I walked into work this morning. I have a new boss. He's 20 and had a PhD. I'm amazed. \ Wow! I would be amazed too!
+A little worried. While super smart as we get older we gain real world experience in dealing with people that you can not learn in a book. But still at 20 I was struggling with my associates degree.  \ That's so true. Im 30 and just now having the time to work on my bachelors. But I have a lot of work experience.
+I'm 34 and still working on the BA as well. When life got in the way education had to take a back seat. \ Same here. Well I hope he can adapt and do well. Good luck with your BA too!
+My friend recently bought a brand new Mercedes. \ Oh wow. How do you feel about that?
+I am very envious of him. \ People get lucky sometimes. It's better not to compare yourself to someone else.
+I'm supposed to hang out with my friend, but's like 15 minutes pass the time now. \ Are you anxious about it?
+That and I'm pretty pissed off. There's no communication. \ Sometimes people are not thoughtful of other people's time.
+I finally have enough to buy a new computer. \ Yay! Congratulations! Have you been saving for awhile?
+Yea. About half a year. \ That's so exciting! Best of luck with your new computer!
+I was running late this morning and went outside to find a nail in my tire. It was flat. \ Oh god. I hate that. What did you do?
+I had to put the spare on and take the damaged tire to be fixed. It was so frustrating.  \ I'm sorry that happened. How much did it cost to repair?
+I usually wear my pajamas when I drop my son off at school since I don't have to get out. \ Pajamas are comfortable. No shame in that.
+One time I got pulled over and the officer made me get out of the car. \ For wearing pajamas?
+I got $20 worth of Taco Bell. I haven't ate all day. \ Oh wow! You must've been hungry.
+Yea, I am lol. Still haven't ate yet. \ Will you be able to eat all that? 
+I had to go to the food bank for some formula today, because I ran out unexpectedly. I am glad they were able to help me. \ Some organizations are really life savers.
+Yeah exactly, my town is full of wonderful people who are very charitable, pretty much everyone here volunteers and participates.  \ Not like mine then. So many fronting to donate, but they're actually stealing.
+My dog is getting really old. He's always been there for me, so I'm going to take care of this little guy as best I can in his last days. \ I'm sorry to hear that but he is lucky to have you.
+It's ok. I am lucky to have him as well. \ Yes you are, I'm sorry to hear about you losing them.
+I was so excited when I got my new puppy, it was awesome! \ Man, I'm so jealous of you. I love that new puppy stage, as tumultuous as it can be. There's just so much emotion and "new feelings" going on as you watch it grow.
+I agree with you, the joy of adding a new member to the family is a wave of emotions, positive ones of course! \ Yeah, but then there's also those late nights where you have to take them out because they're not used to holding their pee/poop in. And also them peeing and pooping in the house as they learn not to do that to begin with. They just have unlimited energy, so it's hard to keep up sometimes, but also fun!
+Have to go to the doctor tomorrow to see if I have strep throat. I hate when they have to swab the back of your mouth to "make sure" that it's strep so they can treat you. Really hoping to avoid that this time around. \ Sorry to hear that, the trouble of going to the doctor just to "confirm" its strep throat is the worst. It's like I know I have it, just help me!
+Haha, that's exactly how I feel. And then when they have to swab the back of your throat, I always gag and they keep having to do it over and over. It's traumatic almost, and I'm already sick to boot! \ Hopefully you can avoid that, the swab to the back of your throat is a gross feeling!
+Oh today I heard one of Nannie's favorite songs on the radio.  It made me really miss our car rides together.   \ Oh that's so sweet. My grandmother is a great person too and I'm glad to know her.
+She was a lovely lady indeed!  I miss our time together a lot especially when I hear the music she used to listen to. \ I think it's great that you have such positive memories of her, that way she'll always be there in some form.
+So the other day I ate a piece of cake that my mom made for my dad as a gift, oops. \ Oh no!  Well what he didn't know won't hurt him.  Hopefully you can get a replacement.
+Unfortunately he walked in right as I took the last bite! Fortunately it all worked out so no harm done. \ Awww well I am glad he was understanding about it.
+My dog wants to play tug of war with me with this little rope toy she has. But when we played last night, she got so wild and energetic, that she started attacking my other dog! Not sure if I should do it again.. \ Oh no! maybe she needs a break for a wahile
+I thought so too. Didn't think she'd want to rough-house today. I was just trying to get some work done and she keeps dropping the toy at my feet and whining, and it makes me feel so guilty to ignore her! But she drew blood last night on my other dog, so I'm not sure. \ That's no good. I guess you'll have to find a nicer game.
+I went grocery shopping like I usually do today, but I did something different. \ Oh, that's curious... By different, what do you mean? Did you buy different stuff, or go to a different store, or what?
+I never wanted to be the "grocery list" person, but I did it today and its the first time in years I didn't forget something. I shouldve beem doing this all along especially with three kids. \ Oh yeah, totally. And then you don't end up buying too much or too little, and you don't waste time trying to remember things. There's also tons of little apps on your phone you can get that can make it really streamlined and convenient.
+I have so many apps, but I get frustated with technology easily. I think the list thing might work out after all \ I'm sorry to hear that. Maybe give it one more try, and if you continue to like it, that might be your sign to stick with it. Good luck!
+My sister in law lived with us and she was so lazy, she slept in until five pm everyday on our couch with the curtains drawn and expect us to all just stay in the dark all day. \ Oh my gosh, that's so annoying! How did you deal with it?
+Well eventually I just called up a local post office and asked if they were hiring, and sent her in to apply and she got a job which got her up. \ That was a good solution! Smart thinking!
+I was so pleased with the service I received from the delivery company when I bought my new stove! \ Well that's good, are you enjoying the new stove?
+I am! The delivery guys were nice enough to connect the cord, plug it in and even set the clock! \ Wow how kind.
+I borrowed a friend's hammer and broke the head off \ It is always a bummer when you borrow something and it breaks right away. You feel responsible and have to replace it. 
+Yea, exactly. Apparently, he really loves that hammer. \ Did you end up buying him a new one?
+Those were simpler times, I wish I could go back and relive those days! \ What were simpler times?
+Childhood when you did not have so much to worry about. \ Ah, I see. Had a great childhood, hu?
+I saw a man yelling at a little boy for no reason. \ Were they related?
+I'm not sure but it made me very upset. \ That's terrible to be yelling at a kid who probably doesn't know any better.
+I haven't heard back from my mom yet. Wonder if she's ok \ I hope she is okay also.
+She's at Best Buy trying to get her computer fixed. I hope they don't take advantage of her. \ You should go with her next time so that doesn't happen.
+My friend's dog started vomiting a lot. He's at the vet right now. \ I hope he's okay. I hate when my dog is sick.
+I hope so, too. We're waiting to hear back. \ What is the dog's name? I'll say a puppy prayer for him
+Everyone is my neighborhood has a nicer car than me. \ Must make you feel jealous.
+Very much so. It's petty but I can't afford a new car. I feel out of pplace lol \ Maybe they don't even have enough for the cars themselves.
+On my way home from work today I had to wait a really long time for the train the ended up being super crowded due to a police investigation somewhere down the line. \ That is weird.  Do you know what happened?
+Apparently it had to do with an unahtorized person on the tracks \ That is creepy.  
+I was shocked when I realized I had a $100 bill in an old pocket \ Wow that would be a really awesome thing to discover! Did you use it for something fun?
+Actually I used it to take the kids to a water park \ That is fun for everyone. Especially if you've been having hot sunny weather.
+I am very happy when I spend time with my girlfriend. \ You guys sound really happy together.
+We truly are. After a few bad ones I think I am truly in love. \ That's wonderful. How long have you been together?
+i went rock climbing, and remembered I used to climb with my brother all the time \ Wow that sounds so scary!
+Rock climbing is actually not scary unless you're afraid of heights of course. \ You must be pretty strong to do that.
+My friend got me a new phone. \ Well that's awfully generous of them. 
+It is. I didn't even ask for it, and it's not a special occasion. \ Wow are they a very close friend?
+I tried to reach out to my estranged mom, but she insulted me and refused to speak to me. \ That's awful. I'm so sorry you had to experience that.
+It's okay, I'm used to it, it's been six years since we've seen each other. \ Guess she's estranged for a reason.
+Haven't seen my friends in a while, we had such a great time at the lake. \ Nice. When was the last you have seen them?
+3 years ago. \ Why you didn't contact them?
+I made a mistake at work but everyone blamed a coworker. I feel so bad about ir. \ Will you explain it to them?
+I am too afraid of the consequences and I think it is too late. \ That's understandable. Hopefully, you won't make the same mistake next time.
+I missed my friend's phone call. Her car broke down. \ Yikes. Did she have to walk?
+Yea. She walked to the nearest gas station. \ Look at the bright side. She got some exercise. We all need more exercise.
+So ever single day my boss is late to work. 20 minutes or more. Today I was 1 minute late, first time in 2 years and I got a wrote up. \ Wow. That's pretty hypocritical.
+Yea, I even called and let them know the highway was closed down and I was going to be late. I even text her photo of the traffic accident once I got up to it. \ I think she's just trying to cause a problem.
+Do you go visit some place that makes you miss growing up? \ Yes, I love to visit the zoo!  
+I recently went back to Michigan and got visit my old town and even the High school I had such great times back then. \ What were some of your favorite things to do back in highschool?
+Do you like to organize your house.  My mother-in-law recently surprised me recently with some organizing stuff b/c she knows how much I love it! \ I'm trying to get into it. we have our first baby on the way and need to reorganize everything. Do you have tips? 
+Labels and Bins can be your best friend!  Especially with a new baby.   \ My big thing is i'm like O' I may need that leave it out of the tote box. Before I know it I have more stuff laying around then when I started.
+I had such a nice time with my aunt going through my uncles things after he passed \ I'm so sorry to hear that. What did you guys find?
+He had a lot of letters that he kept and he had old collectors items \ You two must miss a lot.
+I haven't seen my grandma in 5 years. I'm so excited she's coming to visit. \ Good for you. I loved spending time with my grandma!
+What's your grandma like? \ She is the sweetest woman I have ever met
+You would not believe this girl! I was at my kid's graduation. Afterwards, my mom and I went up to congratulate him. I was just about to hug him and one of his ex's pushed me and my mom out of the way, jumped on him, and wouldn't let him go for 10 minutes! \ That sounds crazy!
+I was so irritated. She was sobbing hysterically. And my poor son just stood there not knowing what to do \ What happened next?
+I was hungry and took my co-workers food \ Did you not have your own food?
+I didn't have any that day, I was also out of money \ Oh no! That sounds horrible! Did the co-worker find out?
+The new Call of duty is going to be the bomb \ Nice. Did you pre-order?
+Sure did. I'm playing on release day and gonna kill it! \ Sounds like it's gonna be a lot of fun.
+I was digging my nose thinking I was alone. \ I know where this is going lol
+hahah do you now \ You obviously weren't alone
+My dad is coming into town. Haven't seen the guy in 5 years \ That should be fun.  Does he live pretty far away?
+Yea, he's some timezones away. \ That has to be tough
+I was not impressed when I realized that I left my badge at home \ Oh no. Did you need it?
+It was a little difficult to get into work without it \ Sometimes we forget stuff. It happens.
+I ruined dinner tonight I feel bad. \ What happened? 
+I forgot to put up the leftovers last night and the food was no good. \ You could have still eaten it if you were daring.
+Well I'm not. And I can't afford to be sick and miss work either. \ Bright side, it would have been a great excuse to order pizza. 
+This morning I don't know what got into me but on the way to work I picked up a homeless guy.  \ Oh wow. Give me the details.
+Yea, as I pulled over I thought it was someone down on his luck. Nope, he was crazy. \ Are you missing an organs?
+Haha, it started off ok. He was going to the train station. I agreed to take him. With in minutes he was talking to him self.  \ Well, At least you're in one piece. you could have been in several.
+I've been letting a stranger stay with us this past couple of days \ A complete stranger? How the heck did that happen? I'm sure you must be confident that it's safe, if they're staying with you.
+Seems like they were really down on their luck. I felt really bad for them. \ So, are they trying to apply for jobs and stuff? How long do you think you'll let them stay for?
+I hate trying to apply for jobs, putting so much effort into it, and then not getting any sort of response back. It's like, yeah, okay, I understand if you can't hire me, but can you at least tell me that you're denying me, and maybe why, too? \ I think we're just another number for them.
+Yeah, I'm starting to feel that way. How long ago was it that you had to do a job hunt? \ I'm actually doing one now. Need better pay. I wish us both the best of luck.
+I've been waiting for a story to finish, but the author passed away \ Oh no! Which author is it? That really stinks when you can't finish a story. An eternal cliff-hanger.
+Yea, now I try to read completed works lol. \ That's a good idea. I know everyone is worried about that when it comes to George RR Martin and game of thrones.
+My dad just walked in with a piece of cheesecake only for himself! Cheesecake is my favorite dessert! I really wish I could have gone to Cheesecake Factory with him. \ Wow. He didn't get you one, hu? Thanks Dad.
+Yeah, it's alright. He's been a little sad lately since he just recently retired, so I'm glad he's enjoying himself. I won't give him too much crap about it. \ That's nice of you. I hope he feels better soon.
+It warms my heart to have my parents to have such a good relationship with my kids \ It's great that your kids are having such a great relationship with their grandparents.
+It really is.  Does your family live close to you? \ Yea, they do, but they're getting old. Makes me scared.
+My girlfriend is going on vacation out of the country with her friends for 2 weeks \ That is a long time.  What are you going to do?
+Try not to worry and trust her. \ That is  good.  Might be a good time to work on you
+My exroommate was horrible! He refused to shower. We were lucky to get 1 shower a week out of him. And he refused to clean up after himself \ That's insanely gross.
+He smelled so bad! And before I moved out, he had dishes with food in them from over a month before \ He will be single forever.
+We can only hope so. \ Tragic lol
+MY kids are gonna take care of me when I get older. I just know it \ That is a great thought! What makes you so sure?
+I'm just wishing they would. I do a lot for them and I hope they appreciate it lol \ I completely know the feeling. My kids are teenagers and I threaten them every day that I will move in with them when I am old and grey lol.
+Lol. I should do that too. And say you still have to do what I say because I will always be the parent lol \ If only that actually worked, right? lol
+I thought I saw a bat in my kitchen last night \ Ugh that would freak me out! Did you ever find out if it was a real bat?
+It was a big moth. I'm just afraid of everything. My daughter just opened the door and let it out lol. She is my hero \ Oh well that's lucky for you haha my three sons hate bugs!
+I was about to go to bed when my mother in law called with the shocking news that my sister in law was pregnant. \ Why is it so shocking?
+Because I never expected her to get pregnant so young. \ Well she is married right? some people say sister in law before its official
+I recently had to put my cat, Blackjack, to sleep.  \ Thats unfortunate. It is a difficult decision to make. Sometimes we are put in those situations and they take a toll on us.
+He was 15 and his kidneys were failing. It was really hard for me and my kids. \ I hope he is in a better place now. How did you have Blackjack for?
+Since he was 4 months old. It was so hard, but the right thing to do. \ So you all had relatively all his life. Yes, it was the right thing to do. Did you get another pet instead?
+It was a hot summer day and the sirens went off in the grocery store. I was about to leave the grocery store until the lady next to me with 2 kids stopped me to ask if I can assist her. I carried one of her kids out of the grocery store. It seemed that she felt comfortable around me.  \ Wow! You must have a very trusting face! That was very nice of you to help her.
+I like to help others! It was not an easy thing to do, but it seemed like it was the right thing to do.  \ It definitely was! How old do you think her kids were?
+I drove to Dairy Queen but it was closed.  \ I'm sorry to hear that.  That must have been frustrating.
+I just really wanted some ice cream! Now I know their hours, though. \ Hopefully you were able to get the ice cream that you wanted in the following days.
+One time I had a flat tire and my dad came to help me fix it. \ Oh no! Glad your dad was able to help. How did it happen?
+I ran over a nail in the road.  Now I know not to drive near new houses. \ That's some bad luck. I hope it wasn't too much of a hassle.
+My friend is at Chipotle getting me some burritos. \ That sounds really good.  What kind do you like?
+Their sofritas with extra everything. \ That sounds great
+I am anticipating a really long day tomorrow and it makes me nervous \ Oh. What's happening tomorrow?
+It is going to be really busy and hard to get out of work probably \ I hope you're able to tough it out.
+I took a statewide licensing test last week. I had to study really hard for it. But in the end I was rewarded quite well. I got the highest score in the entire state! \ That is amazing, did it lower your insurance rates too?
+No it doesn't affect my insurance rates in any way. \ That is a bummer, but congratulations on the highest score, that is something to be proud of. 
+I felt like I was on the top of the world when I won the science fair in middle school. No better feeling than that for a small child.  \ Congrats! That would be really exciting. What was your project?
+My project was to show what farm poop produced the most gas when it decomposed. I put the poop in a bottle with a balloon on top. Whatever balloon grew the largest, was the one that released the most gas. \ That's a very interesting topic. I would have loved to have seen that!
+I was on a long walk and couldnt get home on time to get to the bathroom. \ Oh no! That sounds awful. Were you able to stop on the way home?
+Nope, not at all unfortunately. \ Oh goodness! I am so sorry that happened to you! 
+The first time I spent the weekend at my boyfriend's appointment, I was greeted by flowers all through the apartment and my dog had treats and toys waiting for him \ That sounds wonderful. 
+It really was so sweet. He still spoils us rotten. I haven't quite gotten used to it yet lol \ Does he have a sister? lol
+Saw this guy ate 3 bowls of large pho. \ Holy cow, that's impressive. I bet they had to be carried back home. Did they even break a sweat?
+They ate it like it was nothing. Damn. \ Haha, that's so funny. I bet it was even funnier to watch. I can kind of understand it--pho is really popular. I've had it and it's not bad. My girlfriend loves it and has it like once a week, along with spring rolls.
+On the way home on my bike, I couldn't hold it in any longer and I... went to the bathroom on myself. #2. It was horrible. I had another mile to go before I got back to my house. So much to clean up. I felt so mortified! \ Oh god, I've been through that. At least, a bike is easy to clean?
+Yeah, the bike was easy to clean, for sure. Took like two minutes. Myself on the other hand... Not so much. And the clothes, I almost wanted to throw them away but the jeans are my favorite, so I decided against it. They might not be my favorite anymore though... \ Oh man. Sorry that happened.
+It's birthday soon. I want to be a better person. \ Make that wish when you blow out the candles
+Yea, i will! \ Birthday wishes come true. You will have to work at it still though.
+I miss when my toddlers were tiny babies. \ aw how old are they now?
+3 and 4. They don't listen and waste crumbs when they aren't even eating anything. I don't understand it. \ You definitely need to teach them not to do that.
+My neighbor's party is still going on. I need to wake up early tomorrow. \ What time is it there?
+Around 9pm. \ Well they should prbabl shut it down soon. It is only Thursday.
+I lie to my boyfriend constantly. \ Oh no, how come?
+I always tell him I'm broke so I don't have to spend my own money. That's bad I know \ Well, he sounds like he really loves you.
+My son just left for the Army. He is going to have an amazing career. \ He's definitely going to learn a lot. How long will he be away for?
+This go round it will only be for a few months. But the next time he leaves will be a lot longer. \ Will you miss him?
+Let my 16 year old brother borrow my car to take his date out. \ Did he take good care of your car?
+Yea, he was very responsible with it. \ That's great! Not too many 16 year olds are that responsible.
+Went on a first date last weekend. Had some sort of BBQ appetizer early in the date. Yummy, yea well not really!  \ Not really? How come?
+Well, after about an hour I got up to pee. As I washed my hands I looked up and my face was covered with sauce. It looked like someone poured it on my face,  \ Oh wow, the BBQ must be delicious.
+Had to give a presentation for my group at school. Think I did well. \ That's awesome. Did you get nervous prior? 
+Oh yea, I'm super nervous in front of a lot of people, but I prepared a lot. \ It gets easier as you get older. I'm sure you did great.
+Do you ever wake up and realize how lucky we are? I travel a lot and I just got back from Haiti. I'm convinced it's better to be poor in America then rich in Haiti. \ That's a profound thought. We definitely take America for granted, especially when some people say it's in its "worst state in a long time." We're prisoners of the moment.
+Those that criticize have not traveled the real world out side resort gates or into the third world. Then you see a real state that is in trouble. \ Yeah, I guess you would know for sure, since you've seen it first hand. Especially a place like Haiti, that's just gets pounded with hurricanes. What brought you to Haiti, if you don't mind me asking?
+Someone in my family snuck $20 out of my wallet without asking me. It had to be one of them, because it's been here on the counter all day, and I know I definitely had two $20 bills in there. No one will own up to it... \ That's sad. If you can't trust your family how can you trust. Are you going to say something?
